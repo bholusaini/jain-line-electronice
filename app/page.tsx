@@ -457,7 +457,7 @@ export default function HomePage() {
             <div className="order-1 md:order-2 relative">
               <div className="relative">
                 <img
-                  src="/images/shop-interior-1.jpg"
+                  src="/images/owner-photo.jpg"
                   alt="Dheeraj Jain - Owner of Jain Line Electronic"
                   className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
                 />
